@@ -1,0 +1,9 @@
+langchain
+tiktoken 
+openai
+pinecone-client
+nltk
+streamlit
+streamlit-chat
+tqdm
+beautifulsoup4
