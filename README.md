@@ -2,7 +2,7 @@
 This chatbot is built using LangChain and Streamlit.<br>
 This application is using Pinecone as vectorstore.<br>
 Also, for demonstration the data used for interaction is [GPT4 technical report.](https://arxiv.org/pdf/2303.08774.pdf)
-It can be accessed [here](https://docassist.streamlit.app/) for demo.
+
 
 ## Installations
 - Clone the repository<br>
